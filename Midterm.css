@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+body{
+    font-family: 'Sono', sans-serif;
+}
+img{
+    width: 1450px;
+}
+#head{
+    position: relative;
+    bottom: 850px;
+    font-size: 40px;
+    color: yellow;
+    left: 15px;
+}
+#catbir{
+    color: yellow;
+    position: relative;
+    bottom: 935px;
+    left: 1386px;
+    font-size: 20px;
+}
+#catiki{
+    color: yellow;
+    position: relative;
+    bottom: 979px;
+    left: 1286px;
+    font-size: 20px;
+}
+#catuc{
+    color: yellow;
+    position: relative;
+    bottom: 1022px;
+    left: 1200px;
+    font-size: 20px;
+}
+#catdord{
+    color: yellow;
+    position: relative;
+    bottom: 1067px;
+    left: 1110px;
+    font-size: 20px;
+}
+h1{
+    position: relative;
+    bottom: 800px;
+    left: 500px;
+    color: orangered;
+    font-size: 80px;
+}
